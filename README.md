@@ -47,4 +47,4 @@ system-check
 This project is licensed under the [ISC](https://opensource.org/licenses/ISC) License.
 
 ---
-*Made with ❤️ by [Khang](https://github.com/your-username)*
+*Made with ❤️ by [Khang](https://github.com/kevintruong0511)*
